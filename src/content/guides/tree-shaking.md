@@ -146,4 +146,6 @@ So, what we've learned is that in order to take advantage of _tree shaking_, you
 - Use ES2015 module syntax (i.e. `import` and `export`).
 - Include a minifier that supports dead code removal (e.g. the `UglifyJSPlugin`).
 
+As a high-level explanation; you can imagine your app as a tree. The code you actually use are the green and alive leafs of your tree. The dead-code are the brown and dead leafs of your tree consumed by the autumn. In order to get rid of the dead leafs, you have to shake your tree, so that all the dead leafs fall. Tha's why it's called  _tree shaking_
+
 If you are interested in more ways to optimize your output, please jump to the next guide for details on building for [production](/guides/production).
