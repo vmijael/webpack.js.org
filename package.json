@@ -73,7 +73,7 @@
     "markdown-loader": "^2.0.1",
     "markdownlint": "^0.6.0",
     "markdownlint-cli": "^0.3.1",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "mkdirp": "^0.5.1",
     "modularscale-sass": "^3.0.3",
     "moment": "^2.18.1",
