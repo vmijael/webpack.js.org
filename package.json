@@ -98,7 +98,7 @@
     "yaml-frontmatter-loader": "^0.1.0"
   },
   "dependencies": {
-    "ajv": "^5.2.2",
+    "ajv": "^6.12.3",
     "preact": "^8.2.5",
     "preact-compat": "3.17.0",
     "prop-types": "^15.5.10",
